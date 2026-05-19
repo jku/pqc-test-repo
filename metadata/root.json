@@ -1,0 +1,65 @@
+{
+ "signatures": [
+  {
+   "keyid": "aa61e09f6af7662ac686cf0c6364079f63d3e7a86836684eeced93eace3acd81",
+   "sig": ""
+  }
+ ],
+ "signed": {
+  "_type": "root",
+  "consistent_snapshot": true,
+  "expires": "2036-05-16T08:11:05Z",
+  "keys": {
+   "aa61e09f6af7662ac686cf0c6364079f63d3e7a86836684eeced93eace3acd81": {
+    "keytype": "ecdsa",
+    "keyval": {
+     "public": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEohqIdE+yTl4OxpX8ZxNUPrg3SL9H\nBDnhZuceKkxy2oMhUOxhWweZeG3bfM1T4ZLnJimC6CAYVU5+F5jZCoftRw==\n-----END PUBLIC KEY-----\n"
+    },
+    "scheme": "ecdsa-sha2-nistp256",
+    "x-tuf-on-ci-keyowner": "@jku"
+   },
+   "ad6f621fbfb184b88e3f4bacb823701a829c768bdcc5ad0a584bc2ae6f149321": {
+    "keytype": "ml-dsa",
+    "keyval": {
+     "public": "-----BEGIN PUBLIC KEY-----\nMIIFMjALBglghkgBZQMEAxEDggUhAF+T9bbRizGiZdUKnj3Hp98czCWJDQfkKKM5\n4X6Uc3jrtpx2NkOZH9U1T4+/MyH0PJqc9q38pzu+4kDPOzH5MIE0OZMl8AlvD2by\n7NvBJ+NQv2f6j1SRYrWaJTGYnTHD0QLvV4sK698OzJtFW8W4RlxffWZVK7tDyLIo\nqHSjp1uLOKQyr/y1B07/7RjnvO8lnpWOvosLCIffHM+izZ1jAAvrxumA5FkN17Fx\nSCN1/tFuyLDdYnOl4jUc9cH4W+chDovP5vTog7StWowMzZkzOrjAHJi1BpHOeZtd\nr3xKgTwbEJ23HYXp2DpCf10eAMMaR1fLfth0bdsufzhkVMhhYil0E5TW5xFh8Wp0\nxs0KXwfGC1Mo+9aBKiCE4zd7iWGhK0xorWxikStU3NKc9erdFaV+hIvntAubvNXm\nIbBz8DmiJluW395TecJbIsUb6Zk498cWYWcMywENCpyq0WWVb+StK/io2h31ERvs\n8igdF9p08zrqKIyYFFFjf+W+7fsXm9rSjq3tSNzYluoqRQ6vhBAZpFMQDawsHErv\nf6wwqf014h+/tzbhcOAbLVrExstYvhO9lHzXRnIZYS6d38Gq5xmKAHmSTMrrvJCo\nsUy7pEAdSVrl3y8nLl4hYWOopQMEx2GsTeBc+Ps0/cXgcU4Mam01weZsMUSaxSEX\nUrassMafxYyyKIiOttyvdN3Y0a5S+Z3TfyE463y8gDk/SjKSkhFMUd73Ji4BCTiq\n2WLMfv0chv/PouWNnNMKr4hguCBAy6qvtKk6GSK3HhtruAOLl1jfqcpYPHOkVO9z\nlisnYscjtaG/6MMSM0XcBDpEMH0ptzwp8I6R7Ntr57QeP+yv9EePaOO2B/Q/PHmm\nS5Vhziq+JxqvcpGq6UF0lBxTopyf2deMiq/aZ5MI5n82ttNbiAM6LTdudlGGK2vA\n1VG5vHnQRS6y0N1neHe0KR5UY5mxRcOysjwpNna2oVzKtmwkBc2wVqug9iduebZH\nRbAxs1PV4pPfQ7MGYd/bopabtYHn5W0sjQWdhhL3xFsBlY5LWkYlU7dAeg32be9W\n6/I8EStKAs2XNuKGDP0rLs5Gxt9Uwi7Zbaz5ViRb7byMbnaOjvjFbqmikSa88uuV\nqMtVirPBHvSSmBupxrS2ppXhE1uUe1Mz0phHRqJjgsrKXT/6M1sELR66eiUtuKiy\nC8+5gitX8b1Q8pE9n+E4YNU2WMNdaxnmP7BxyBN/JhX2dBgtSlUukDSs/1LXwSw2\nkgjGD6o7X+QdR91i1RSZ8U6aSiA0hcWeRSa0+j4MmjHA2GWaRxa0EpfSYXik/W4k\n9cpRg89uCc0q4RhMIDtSN4llrd2QBMd8FgGr+WHLjFg/42enBlXa71LuuNqH7v0T\nfc3kBF5jKsSz7q9CZZ5W11gQBSSScLepalDxxFktnfEF1pLgRHeWmJQX88DOi1Nc\nhv/c/GLumwElhqn3EzstV/qLrryaG0Desqoh7TsVE6cjbVt4IRiKncy4ckFFXwwb\nKIxbiKQILSuiYUaXRaKSiQOgiCjcPTQh229b1Z0Lr7s0c3Bs/kyqkJJT0MSNUOGj\nFH1s7ty3pZht+aQXh7RaK+6H4EJGia0gMaJRvhydYh2O+ZOJKPl53/NOfgBGvI3j\n40fg6nBurS8FfKkY3EBvAJ7Z8XXZ9CIfe8F5AkGpMhUz13J3kKlwXSsva/E4oTRt\nPEVZhxhZlzjDEpF8YcUcrrEOnrds2NAtgtZfxitPGhoJeqkAe1A=\n-----END PUBLIC KEY-----\n"
+    },
+    "scheme": "ml-dsa-44/1",
+    "x-tuf-on-ci-online-uri": "gcpkms:projects/python-tuf-kms/locations/global/keyRings/pqc-demo/cryptoKeys/mldsa44/cryptoKeyVersions/1"
+   }
+  },
+  "roles": {
+   "root": {
+    "keyids": [
+     "aa61e09f6af7662ac686cf0c6364079f63d3e7a86836684eeced93eace3acd81"
+    ],
+    "threshold": 1
+   },
+   "snapshot": {
+    "keyids": [
+     "ad6f621fbfb184b88e3f4bacb823701a829c768bdcc5ad0a584bc2ae6f149321"
+    ],
+    "threshold": 1,
+    "x-tuf-on-ci-expiry-period": 3650,
+    "x-tuf-on-ci-signing-period": 60
+   },
+   "targets": {
+    "keyids": [
+     "aa61e09f6af7662ac686cf0c6364079f63d3e7a86836684eeced93eace3acd81"
+    ],
+    "threshold": 1
+   },
+   "timestamp": {
+    "keyids": [
+     "ad6f621fbfb184b88e3f4bacb823701a829c768bdcc5ad0a584bc2ae6f149321"
+    ],
+    "threshold": 1,
+    "x-tuf-on-ci-expiry-period": 2,
+    "x-tuf-on-ci-signing-period": 1
+   }
+  },
+  "spec_version": "1.0.31",
+  "version": 1,
+  "x-tuf-on-ci-expiry-period": 3650,
+  "x-tuf-on-ci-signing-period": 60
+ }
+}
